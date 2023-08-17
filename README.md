@@ -13,6 +13,7 @@ DHT11:
 
     VCC on + rail
     Data to GPIO4
+        Tie 5K resistor on GPIO4 to + rail
     GND on - rail
 
 OLED1306:
